@@ -1,0 +1,25 @@
+{
+  "id": "eb492403-5f75-4196-99d0-579b61d0729b",
+  "name": "Subscription",
+  "publisher": "Peik Bech/Andersen",
+  "version": "18.6.0.0",
+  "brief": "Subscription Management",
+  "description": "Subscription Management",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "./Images/Logo.jpg",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "7.0"
+}
