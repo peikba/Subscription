@@ -20,4 +20,10 @@ codeunit 50100 "CSD Subscription Mgt"
                 end;
             until SalesInvoiceLine.Next() = 0;
     end;
+    local procedure PBA()
+    var
+        myInt: Integer;
+    begin
+        
+    end;
 }
