@@ -13,5 +13,9 @@ tableextension 50100 "CSD Customer" extends Customer
         {
             DataClassification = ToBeClassified;
         }
+        field(50102; "PBA2"; Decimal)
+        {
+            DataClassification = ToBeClassified;
+        }
     }
 }
