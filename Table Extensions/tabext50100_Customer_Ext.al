@@ -17,6 +17,5 @@ tableextension 50100 "CSD Customer" extends Customer
         {
             DataClassification = ToBeClassified;
         }
-
     }
 }
